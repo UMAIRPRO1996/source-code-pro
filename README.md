@@ -4,7 +4,7 @@
 is a set of OpenType fonts that have been designed to work well
 in user interface (UI) environments.
 
-## Open source files
+## Open source files (step by step)
 
 The fonts' source files and build instructions are available in the [repository's `main` branch](https://github.com/adobe-fonts/source-code-pro/tree/main).
 
